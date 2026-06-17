@@ -1,0 +1,47 @@
+# PaperMind - 科研论文智能分析助手
+# =====================================
+
+# LLM 框架
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-chroma>=0.1.0
+
+# 向量数据库
+chromadb>=0.4.22
+
+# PDF 解析
+pdfplumber>=0.10.3
+PyPDF2>=3.0.1
+
+# 本地 Embedding（非 OpenAI API 时使用）
+sentence-transformers>=3.0.0
+langchain-huggingface>=0.1.0
+
+# 图谱处理与可视化
+networkx>=3.2
+pyvis>=0.2.1
+
+# Web 前端
+streamlit>=1.28.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 进度条
+tqdm>=4.65.0
+
+# 类型检查
+pydantic>=2.0.0
+
+# Markdown 处理
+markdown>=3.5.0
+
+# 工具库
+uuid6>=2024.0.0

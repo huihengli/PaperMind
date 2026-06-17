@@ -1,0 +1,1189 @@
+2026-06-17 21:48:59,117 [INFO] PaperMind:56: Chroma 向量存储已初始化: ./chroma_db
+2026-06-17 21:49:55,792 [INFO] PaperMind:40: 开始解析 PDF: tmpe5sykd8m.pdf
+2026-06-17 21:50:01,050 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:01,050 [INFO] PaperMind:73: PDF 解析完成: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and (pages=34)
+2026-06-17 21:50:01,055 [ERROR] PaperMind:229: PDF 处理失败: name 'load_json' is not defined
+2026-06-17 21:50:01,510 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:05,782 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:06,625 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:06,864 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:06,872 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_arguments.json
+2026-06-17 21:50:13,483 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:13,736 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:13,744 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_arguments.json
+2026-06-17 21:50:17,083 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:17,092 [INFO] PaperMind:40: 开始解析 PDF: tmpzqra1e0a.pdf
+2026-06-17 21:50:21,958 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:21,960 [INFO] PaperMind:73: PDF 解析完成: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and (pages=34)
+2026-06-17 21:50:21,962 [ERROR] PaperMind:229: PDF 处理失败: name 'load_json' is not defined
+2026-06-17 21:50:22,402 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:22,403 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:22,417 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_arguments.json
+2026-06-17 21:50:25,061 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:25,062 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:25,304 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:25,306 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:25,312 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:27,622 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:27,623 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:27,633 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:29,393 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:29,394 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:29,407 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:30,854 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:30,855 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:30,869 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:32,735 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:32,736 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:32,969 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:32,971 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:32,981 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:34,666 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:34,666 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:34,678 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:36,039 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:36,040 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:36,050 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:48,994 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:48,996 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:49,007 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:51,429 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:51,431 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:51,451 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:51,875 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:51,878 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:51,887 [INFO] PaperMind:40: 开始解析 PDF: tmpctbv5e7y.pdf
+2026-06-17 21:50:54,131 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:50:54,134 [INFO] PaperMind:73: PDF 解析完成: Know Your Intent: An Autonomous Multi-Perspective LLM Agent (pages=12)
+2026-06-17 21:50:54,137 [ERROR] PaperMind:229: PDF 处理失败: name 'load_json' is not defined
+2026-06-17 21:50:54,501 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:54,504 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:54,524 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:50:54,537 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_arguments.json
+2026-06-17 21:50:56,202 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:56,202 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:56,202 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:50:56,438 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:56,441 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:56,443 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:50:56,454 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_arguments.json
+2026-06-17 21:50:58,301 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:50:58,301 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:50:58,302 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:50:58,320 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_arguments.json
+2026-06-17 21:51:14,184 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:14,185 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:14,185 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:14,196 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_arguments.json
+2026-06-17 21:51:18,421 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:18,424 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:18,425 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:18,672 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:18,673 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:18,673 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:18,681 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_arguments.json
+2026-06-17 21:51:19,633 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:19,635 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:19,636 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:19,877 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:19,879 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:19,879 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:19,891 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_arguments.json
+2026-06-17 21:51:20,482 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:20,483 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:20,483 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:22,822 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:22,824 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:22,825 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:22,842 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:22,843 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:22,844 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:30,282 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:30,283 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:30,284 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:30,932 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:30,936 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:30,936 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:37,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:37,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:37,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:38,227 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:38,229 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:38,230 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:38,234 [INFO] PaperMind:40: 开始解析 PDF: tmpx5ety2ya.pdf
+2026-06-17 21:51:44,288 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:51:44,288 [INFO] PaperMind:73: PDF 解析完成: A Hitchhiker’s Guide to Privacy-Preserving Digital Payment Systems: (pages=31)
+2026-06-17 21:51:44,288 [ERROR] PaperMind:229: PDF 处理失败: name 'load_json' is not defined
+2026-06-17 21:51:44,776 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:44,777 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:44,802 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:51:44,803 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:44,823 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_arguments.json
+2026-06-17 21:51:47,573 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:47,575 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:47,576 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:51:47,578 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:51:49,177 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:51:49,178 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:51:49,179 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:51:49,180 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:41,214 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:41,217 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:41,218 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:41,219 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:45,150 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:45,151 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:45,153 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:45,154 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:46,902 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:46,902 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:46,904 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:46,904 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:50,390 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:50,391 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:50,394 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:50,394 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:51,475 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:51,478 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:51,479 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:51,479 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:51,486 [INFO] PaperMind:40: 开始解析 PDF: tmpd5zp_dnu.pdf
+2026-06-17 21:52:53,437 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:52:53,438 [INFO] PaperMind:73: PDF 解析完成: Vulnerable Open Source Dependencies: Counting Those That (pages=10)
+2026-06-17 21:52:53,440 [ERROR] PaperMind:229: PDF 处理失败: name 'load_json' is not defined
+2026-06-17 21:52:53,783 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:53,784 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:53,785 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:53,785 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:53,805 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:52:53,825 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_arguments.json
+2026-06-17 21:52:56,964 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:56,966 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:56,969 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:56,969 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:56,969 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:52:57,959 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:57,960 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:57,962 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:57,964 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:57,964 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:52:57,988 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:52:57,989 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:52:57,990 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:52:57,991 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:52:57,991 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:02,917 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:53:02,919 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:53:02,920 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:53:02,920 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:53:02,922 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:03,168 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:53:03,169 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:53:03,170 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:53:03,170 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:53:03,171 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:03,196 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_arguments.json
+2026-06-17 21:53:09,167 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:53:09,169 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:53:09,169 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:53:09,169 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:53:09,171 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:09,193 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_arguments.json
+2026-06-17 21:53:09,733 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:53:09,735 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:53:09,736 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:53:09,736 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:53:09,738 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:09,761 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:53:09,763 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:53:09,765 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:53:09,765 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:53:09,766 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:11,264 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:53:11,265 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:53:11,267 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:53:11,267 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:53:11,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:11,290 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:53:11,290 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:53:11,293 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:53:11,294 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:53:11,295 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:53:11,298 [INFO] PaperMind:117: 开始多篇对比: 2 篇论文
+2026-06-17 21:53:11,298 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_arguments.json
+2026-06-17 21:53:11,299 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_arguments.json
+2026-06-17 21:53:14,129 [ERROR] PaperMind:444: 对比分析失败: Error code: 404
+2026-06-17 21:56:44,279 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:44,283 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:44,285 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:44,286 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:44,288 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:44,318 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:44,322 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:44,325 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:44,327 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:44,327 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:49,411 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:49,414 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:49,414 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:49,416 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:49,416 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:49,445 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:49,445 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:49,445 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:49,445 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:49,445 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:49,779 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:49,781 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:49,784 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:49,785 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:49,785 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:49,823 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:49,826 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:49,830 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:49,832 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:49,834 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:51,395 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:51,395 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:51,400 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:51,400 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:51,400 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:51,443 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:51,447 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:51,450 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:51,452 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:51,452 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:55,579 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:55,582 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:55,584 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:55,585 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:55,585 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:55,624 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:55,626 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:55,627 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:55,629 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:55,629 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:56,225 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:56,227 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:56,229 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:56,230 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:56,231 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:56,260 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:56,263 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:56,266 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:56,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:56,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:56,688 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:56,691 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:56,693 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:56,694 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:56,696 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:56:56,726 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:56:56,729 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:56:56,731 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:56:56,732 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:56:56,732 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:57:00,880 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:57:00,884 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:57:00,884 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:57:00,886 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:57:00,887 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:57:00,907 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:57:00,909 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:57:00,910 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:57:00,911 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:57:00,914 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:57:02,964 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:57:02,965 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:57:02,966 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:57:02,967 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:57:02,967 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:57:02,994 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_020bcf10cf6c_metadata.json
+2026-06-17 21:57:02,997 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c069ae7feba_metadata.json
+2026-06-17 21:57:02,998 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_4acab9fde275_metadata.json
+2026-06-17 21:57:02,999 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_a19836f76506_metadata.json
+2026-06-17 21:57:02,999 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_bd24c39c6db2_metadata.json
+2026-06-17 21:59:54,428 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-06-17 22:02:29,921 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-06-17 22:08:14,321 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-06-17 22:08:18,703 [INFO] PaperMind:76: Chroma 向量存储已初始化: ./chroma_db
+2026-06-17 22:08:59,773 [INFO] PaperMind:41: 开始解析 PDF: tmpisoydnza.pdf
+2026-06-17 22:09:02,583 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:09:02,583 [INFO] PaperMind:74: PDF 解析完成: Security Architectural Approaches and Risk Assessment Methods for (pages=21)
+2026-06-17 22:09:02,604 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:09:05,386 [INFO] PaperMind:89: 开始为论文构建索引: paper_606b1dd0e58f
+2026-06-17 22:09:05,386 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:09:05,392 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:09:05,397 [INFO] PaperMind:194: 文本已切分为 121 个块 (size=800, overlap=150)
+2026-06-17 22:09:08,149 [INFO] PaperMind:106: 成功索引 121 个文本块: paper_606b1dd0e58f
+2026-06-17 22:09:08,152 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:09:08,153 [INFO] PaperMind:87: 开始论点抽取: Security Architectural Approaches and Risk Assessment Methods for
+2026-06-17 22:09:08,194 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-06-17 22:09:08,214 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-06-17 22:09:08,230 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-06-17 22:09:08,247 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-06-17 22:09:08,247 [INFO] PaperMind:117: 检索到 5 个相关块 (~943 tokens)
+2026-06-17 22:09:20,411 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:09:20,411 [INFO] PaperMind:126: 论点抽取完成: 5 个论点
+2026-06-17 22:09:20,412 [INFO] PaperMind:85: 开始关系识别: Security Architectural Approaches and Risk Assessment Methods for (arguments=5)
+2026-06-17 22:09:57,145 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:09:57,145 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:09:57,145 [INFO] PaperMind:109: 关系识别完成: 4 个关系
+2026-06-17 22:09:58,010 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:10:27,517 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:10:28,433 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:10:28,683 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:10:28,703 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:10:28,705 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=4
+2026-06-17 22:10:29,087 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_606b1dd0e58f.html
+2026-06-17 22:11:12,051 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:11:12,051 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:11:12,059 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=4
+2026-06-17 22:11:12,084 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_606b1dd0e58f.html
+2026-06-17 22:11:17,487 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:11:17,495 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:11:17,496 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=4
+2026-06-17 22:11:17,520 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_606b1dd0e58f.html
+2026-06-17 22:11:18,855 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:11:18,861 [INFO] PaperMind:41: 开始解析 PDF: tmp150a0g8e.pdf
+2026-06-17 22:11:19,588 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:19,588 [INFO] PaperMind:74: PDF 解析完成: Yotta:ALarge-ScaleTrustlessDataTradingSchemeforBlockchainSystem (pages=9)
+2026-06-17 22:11:19,601 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:20,623 [INFO] PaperMind:89: 开始为论文构建索引: paper_506f0461babe
+2026-06-17 22:11:20,625 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:20,626 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:20,628 [INFO] PaperMind:194: 文本已切分为 47 个块 (size=800, overlap=150)
+2026-06-17 22:11:21,746 [INFO] PaperMind:106: 成功索引 47 个文本块: paper_506f0461babe
+2026-06-17 22:11:21,746 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:21,746 [INFO] PaperMind:87: 开始论点抽取: Yotta:ALarge-ScaleTrustlessDataTradingSchemeforBlockchainSystem
+2026-06-17 22:11:21,776 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-06-17 22:11:21,790 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-06-17 22:11:21,804 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-06-17 22:11:21,819 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-06-17 22:11:21,820 [INFO] PaperMind:117: 检索到 9 个相关块 (~1328 tokens)
+2026-06-17 22:11:32,860 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:11:32,860 [INFO] PaperMind:126: 论点抽取完成: 5 个论点
+2026-06-17 22:11:32,860 [INFO] PaperMind:85: 开始关系识别: Yotta:ALarge-ScaleTrustlessDataTradingSchemeforBlockchainSystem (arguments=5)
+2026-06-17 22:11:47,422 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:11:47,422 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:11:47,422 [INFO] PaperMind:109: 关系识别完成: 5 个关系
+2026-06-17 22:11:48,246 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:48,248 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:11:48,255 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:11:48,255 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=4
+2026-06-17 22:11:48,278 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_606b1dd0e58f.html
+2026-06-17 22:11:56,982 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:56,982 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:11:57,221 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:11:57,222 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:11:57,234 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:11:57,234 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:11:57,260 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:12:05,795 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:05,796 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:05,804 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:12:05,805 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:12:05,825 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:12:11,510 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:11,511 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:11,520 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:12:11,521 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:12:11,546 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:12:13,039 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:13,040 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:13,049 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:12:13,051 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:12:13,073 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:12:16,567 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:16,575 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:17,862 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:17,862 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:17,877 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:12:17,879 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:12:17,903 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:12:19,702 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:19,702 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:19,943 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:19,943 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:19,950 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:12:19,951 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:12:19,970 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:12:20,343 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:20,343 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:20,578 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:20,579 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:20,584 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_arguments.json
+2026-06-17 22:12:20,585 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=4
+2026-06-17 22:12:20,607 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_606b1dd0e58f.html
+2026-06-17 22:12:23,498 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:23,498 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:23,757 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:12:23,758 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:12:23,766 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:12:23,767 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:12:23,792 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:13:48,011 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:13:48,017 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:15:44,760 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:15:44,760 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:15:45,726 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:15:45,726 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:15:45,749 [INFO] PaperMind:41: 开始解析 PDF: tmpi3ci2eoo.pdf
+2026-06-17 22:15:49,649 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:15:49,652 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:15:55,459 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:15:55,459 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:15:55,823 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:15:55,890 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:15:56,542 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:15:57,759 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:15:57,804 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:15:57,963 [INFO] PaperMind:41: 开始解析 PDF: tmpffd_mbld.pdf
+2026-06-17 22:17:50,107 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:17:50,229 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:17:51,673 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:17:51,704 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:17:52,214 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:18:06,772 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:18:06,969 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:18:08,316 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:18:08,458 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:18:08,985 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:18:12,156 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:18:12,308 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:18:12,614 [INFO] PaperMind:41: 开始解析 PDF: tmp5zdyauf7.pdf
+2026-06-17 22:18:28,732 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:18:28,742 [INFO] PaperMind:74: PDF 解析完成: 2014 IEEE Symposium on Security and Privacy (pages=16)
+2026-06-17 22:18:29,007 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:18:42,236 [INFO] PaperMind:89: 开始为论文构建索引: paper_89837954117d
+2026-06-17 22:18:42,245 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:18:42,274 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:18:42,281 [INFO] PaperMind:194: 文本已切分为 150 个块 (size=800, overlap=150)
+2026-06-17 22:18:55,755 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:18:55,756 [INFO] PaperMind:74: PDF 解析完成: Financial Cryptography (pages=611)
+2026-06-17 22:19:03,920 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:19:03,922 [INFO] PaperMind:74: PDF 解析完成: Financial Cryptography (pages=611)
+2026-06-17 22:19:09,435 [INFO] PaperMind:106: 成功索引 150 个文本块: paper_89837954117d
+2026-06-17 22:19:09,435 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:19:09,435 [INFO] PaperMind:87: 开始论点抽取: 2014 IEEE Symposium on Security and Privacy
+2026-06-17 22:19:09,465 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-06-17 22:19:09,482 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-06-17 22:19:09,496 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-06-17 22:19:09,507 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-06-17 22:19:09,507 [INFO] PaperMind:117: 检索到 9 个相关块 (~1475 tokens)
+2026-06-17 22:19:16,984 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:19:16,984 [INFO] PaperMind:126: 论点抽取完成: 6 个论点
+2026-06-17 22:19:16,992 [INFO] PaperMind:85: 开始关系识别: 2014 IEEE Symposium on Security and Privacy (arguments=6)
+2026-06-17 22:19:43,047 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:19:43,049 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:19:43,050 [INFO] PaperMind:109: 关系识别完成: 6 个关系
+2026-06-17 22:19:43,837 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:19:43,838 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:19:43,840 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:19:43,854 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:19:43,884 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:19:43,904 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_arguments.json
+2026-06-17 22:19:43,905 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=5
+2026-06-17 22:19:43,932 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_506f0461babe.html
+2026-06-17 22:20:57,911 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:20:57,912 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:20:57,913 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:20:57,914 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:20:57,927 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:20:58,246 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:20:58,246 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:20:58,246 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:20:58,246 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:20:58,265 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:20:58,291 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:20:58,293 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=6
+2026-06-17 22:20:58,318 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_89837954117d.html
+2026-06-17 22:21:03,183 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:03,184 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:03,185 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:03,186 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:03,205 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:03,222 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:21:03,223 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=6
+2026-06-17 22:21:03,246 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_89837954117d.html
+2026-06-17 22:21:05,402 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:05,402 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:05,404 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:05,404 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:05,419 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:05,440 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:21:05,442 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=6
+2026-06-17 22:21:05,468 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_89837954117d.html
+2026-06-17 22:21:06,643 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:06,643 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:06,643 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:06,643 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:06,662 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:06,665 [INFO] PaperMind:41: 开始解析 PDF: tmpvsgidedk.pdf
+2026-06-17 22:21:10,020 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:10,020 [INFO] PaperMind:74: PDF 解析完成: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and (pages=34)
+2026-06-17 22:21:10,034 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:13,555 [INFO] PaperMind:89: 开始为论文构建索引: paper_fe0cccc7737f
+2026-06-17 22:21:13,559 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:13,561 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:13,568 [INFO] PaperMind:194: 文本已切分为 203 个块 (size=800, overlap=150)
+2026-06-17 22:21:17,427 [INFO] PaperMind:106: 成功索引 203 个文本块: paper_fe0cccc7737f
+2026-06-17 22:21:17,427 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:17,427 [INFO] PaperMind:87: 开始论点抽取: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and
+2026-06-17 22:21:17,447 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-06-17 22:21:17,457 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-06-17 22:21:17,469 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-06-17 22:21:17,481 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-06-17 22:21:17,482 [INFO] PaperMind:117: 检索到 9 个相关块 (~1473 tokens)
+2026-06-17 22:21:25,292 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:21:25,292 [INFO] PaperMind:126: 论点抽取完成: 5 个论点
+2026-06-17 22:21:25,294 [INFO] PaperMind:85: 开始关系识别: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and (arguments=5)
+2026-06-17 22:21:38,199 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:21:38,200 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:21:38,200 [INFO] PaperMind:109: 关系识别完成: 2 个关系
+2026-06-17 22:21:39,194 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:39,195 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:39,197 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:39,198 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:39,214 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:39,232 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:39,251 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:21:39,253 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=6
+2026-06-17 22:21:39,278 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_89837954117d.html
+2026-06-17 22:21:41,318 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:41,318 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:41,318 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:41,318 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:41,335 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:41,337 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:41,361 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:21:41,362 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=6
+2026-06-17 22:21:41,387 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_89837954117d.html
+2026-06-17 22:21:42,769 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:42,769 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:42,774 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:42,775 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:42,784 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:42,792 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:42,809 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:21:42,812 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=6
+2026-06-17 22:21:42,834 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_89837954117d.html
+2026-06-17 22:21:44,480 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:44,480 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:44,481 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:44,481 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:44,497 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:44,499 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:44,534 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:44,536 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:44,536 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:44,537 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:44,554 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:44,555 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:45,984 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:45,985 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:45,986 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:45,986 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:46,001 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:46,002 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:46,038 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:21:46,039 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:21:46,040 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:21:46,040 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:21:46,053 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:21:46,059 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:21:46,063 [INFO] PaperMind:117: 开始多篇对比: 2 篇论文
+2026-06-17 22:21:46,073 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:21:46,074 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:21:46,094 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=limitation weakness limitation drawback...]
+2026-06-17 22:21:46,107 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=future work future direction...]
+2026-06-17 22:21:46,129 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=assumption constraint...]
+2026-06-17 22:21:46,142 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=limitation weakness limitation drawback...]
+2026-06-17 22:21:46,152 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=future work future direction...]
+2026-06-17 22:21:46,162 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=assumption constraint...]
+2026-06-17 22:22:19,208 [INFO] PaperMind:149: 对比报告已保存: D:\SystemPath\Documents\Project\papermind\data\reports\compare_20260617_222219.md
+2026-06-17 22:23:06,610 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:23:06,611 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:23:06,612 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:23:06,613 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:23:06,627 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:23:06,629 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:23:06,666 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:23:06,667 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:23:06,668 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:23:06,669 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:23:06,685 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:23:06,687 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:23:19,811 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:23:19,811 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:23:19,811 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:23:19,811 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:23:19,831 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:23:19,832 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:23:19,870 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:23:19,871 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:23:19,872 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:23:19,872 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:23:19,885 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:23:19,889 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:23:21,264 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:23:21,265 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:23:21,266 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:23:21,266 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:23:21,282 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:23:21,283 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:23:21,319 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:23:21,320 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:23:21,321 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:23:21,321 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:23:21,337 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:23:21,338 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:23:21,343 [INFO] PaperMind:86: RAG 问答: [default] 这篇论文的核心创新是什么？...
+2026-06-17 22:23:21,373 [DEBUG] PaperMind:244: 检索返回 8 个结果 [query=这篇论文的核心创新是什么？...]
+2026-06-17 22:24:03,906 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:03,906 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:03,907 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:03,907 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:03,923 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:03,925 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:04,200 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:04,200 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:04,200 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:04,200 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:04,215 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:04,217 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:04,236 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_arguments.json
+2026-06-17 22:24:05,950 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:05,950 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:05,951 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:05,951 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:05,966 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:05,966 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:06,227 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:06,228 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:06,229 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:06,229 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:06,236 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:06,236 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:06,262 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_arguments.json
+2026-06-17 22:24:17,483 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:17,484 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:17,485 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:17,485 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:17,501 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:17,501 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:17,538 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:17,538 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:17,538 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:17,538 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:17,557 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:17,559 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:18,297 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:18,297 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:18,297 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:18,297 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:18,313 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:18,314 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:18,354 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:18,355 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:18,356 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:18,357 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:18,370 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:18,371 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:20,440 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:20,440 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:20,442 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:20,442 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:20,455 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:20,457 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:23,010 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:23,010 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:23,010 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:23,019 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:23,028 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:23,028 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:23,053 [WARNING] PaperMind:102: 文件不存在: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_arguments.json
+2026-06-17 22:24:24,771 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:24,771 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:24,772 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:24,772 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:24,786 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:24,788 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:25,043 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:25,043 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:25,043 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:25,043 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:25,067 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:25,068 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:25,088 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_arguments.json
+2026-06-17 22:24:25,089 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=6
+2026-06-17 22:24:25,107 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_89837954117d.html
+2026-06-17 22:24:26,980 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:26,981 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:26,981 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:26,982 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:26,997 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:26,999 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:27,245 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:27,245 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:27,246 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:27,246 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:27,262 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:27,262 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:27,281 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:24:27,282 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=2
+2026-06-17 22:24:27,305 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_fe0cccc7737f.html
+2026-06-17 22:24:35,839 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:35,839 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:35,841 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:35,841 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:35,856 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:35,857 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:35,874 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:24:35,876 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=2
+2026-06-17 22:24:35,902 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_fe0cccc7737f.html
+2026-06-17 22:24:53,273 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:53,273 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:53,275 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:53,275 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:53,279 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:53,279 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:53,311 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:24:53,313 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=2
+2026-06-17 22:24:53,337 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_fe0cccc7737f.html
+2026-06-17 22:24:54,650 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:24:54,650 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:24:54,652 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:24:54,652 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:24:54,668 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:24:54,669 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:24:54,673 [INFO] PaperMind:41: 开始解析 PDF: tmp7b557jsm.pdf
+2026-06-17 22:24:56,373 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:24:56,374 [INFO] PaperMind:74: PDF 解析完成: BalancingPrivacyandComplianceinDeFi:AZero-Knowledge-BasedAuditableCross-Chain (pages=19)
+2026-06-17 22:24:56,431 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:24:58,116 [INFO] PaperMind:89: 开始为论文构建索引: paper_07e085ad32e3
+2026-06-17 22:24:58,116 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:24:58,122 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:24:58,126 [INFO] PaperMind:194: 文本已切分为 99 个块 (size=800, overlap=150)
+2026-06-17 22:25:00,286 [INFO] PaperMind:106: 成功索引 99 个文本块: paper_07e085ad32e3
+2026-06-17 22:25:00,288 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:25:00,290 [INFO] PaperMind:87: 开始论点抽取: BalancingPrivacyandComplianceinDeFi:AZero-Knowledge-BasedAuditableCross-Chain
+2026-06-17 22:25:00,313 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-06-17 22:25:00,338 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-06-17 22:25:00,364 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-06-17 22:25:00,377 [DEBUG] PaperMind:244: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-06-17 22:25:00,379 [INFO] PaperMind:117: 检索到 7 个相关块 (~1124 tokens)
+2026-06-17 22:25:09,695 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_arguments.json
+2026-06-17 22:25:09,695 [INFO] PaperMind:126: 论点抽取完成: 6 个论点
+2026-06-17 22:25:09,695 [INFO] PaperMind:85: 开始关系识别: BalancingPrivacyandComplianceinDeFi:AZero-Knowledge-BasedAuditableCross-Chain (arguments=6)
+2026-06-17 22:25:20,232 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_arguments.json
+2026-06-17 22:25:20,233 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_arguments.json
+2026-06-17 22:25:20,233 [INFO] PaperMind:109: 关系识别完成: 4 个关系
+2026-06-17 22:25:21,126 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:25:21,143 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:25:21,144 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:25:21,145 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:25:21,145 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:25:21,158 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:25:21,159 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:25:21,177 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:25:21,178 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=2
+2026-06-17 22:25:21,199 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_fe0cccc7737f.html
+2026-06-17 22:25:22,698 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:25:22,710 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:25:22,710 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:25:22,710 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:25:22,718 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:25:22,731 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:25:22,732 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:25:22,970 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:25:22,983 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:25:22,984 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:25:22,985 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:25:22,985 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:25:23,000 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:25:23,002 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:25:23,042 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_arguments.json
+2026-06-17 22:25:23,044 [INFO] PaperMind:93: 图谱构建完成: nodes=6, edges=4
+2026-06-17 22:25:23,065 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_07e085ad32e3.html
+2026-06-17 22:26:00,670 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:00,678 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:00,678 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:00,678 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:00,678 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:00,698 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:00,698 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:00,725 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:00,742 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:00,743 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:00,744 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:00,744 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:00,760 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:00,761 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:03,755 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:03,771 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:03,772 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:03,772 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:03,773 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:03,787 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:03,788 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:03,811 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:03,826 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:03,827 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:03,828 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:03,828 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:03,843 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:03,844 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:13,193 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:13,215 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:13,216 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:13,217 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:13,217 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:13,233 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:13,236 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:13,256 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:13,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:13,268 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:13,274 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:13,274 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:13,288 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:13,290 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:13,295 [INFO] PaperMind:86: RAG 问答: [default] 这篇论文和其他相关工作有什么不同？...
+2026-06-17 22:26:13,320 [DEBUG] PaperMind:244: 检索返回 8 个结果 [query=这篇论文和其他相关工作有什么不同？...]
+2026-06-17 22:26:26,297 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:26,319 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:26,320 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:26,320 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:26,320 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:26,330 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:26,338 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:26,359 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:26,376 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:26,376 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:26,376 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:26,376 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:26,396 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:26,398 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:26,403 [INFO] PaperMind:86: RAG 问答: [default] 论文的实验设计是什么？用了什么数据集？...
+2026-06-17 22:26:26,426 [DEBUG] PaperMind:244: 检索返回 8 个结果 [query=论文的实验设计是什么？用了什么数据集？...]
+2026-06-17 22:26:36,348 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:36,371 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:36,371 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:36,373 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:36,374 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:36,384 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:36,393 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:36,414 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:26:36,429 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:26:36,431 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:26:36,432 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:26:36,433 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:26:36,449 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:26:36,450 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:26:36,455 [INFO] PaperMind:86: RAG 问答: [default] 这篇论文的核心创新是什么？...
+2026-06-17 22:26:36,476 [DEBUG] PaperMind:244: 检索返回 8 个结果 [query=这篇论文的核心创新是什么？...]
+2026-06-17 22:27:04,195 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:27:04,218 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:27:04,220 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:27:04,221 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:27:04,221 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:27:04,233 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:27:04,233 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:27:04,262 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:27:04,279 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:27:04,279 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:27:04,279 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:27:04,279 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:27:04,319 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:27:04,321 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:27:04,345 [INFO] PaperMind:86: RAG 问答: [default] 论文提出了什么方法？效果如何？...
+2026-06-17 22:27:04,381 [DEBUG] PaperMind:244: 检索返回 8 个结果 [query=论文提出了什么方法？效果如何？...]
+2026-06-17 22:27:56,910 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:27:56,930 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:27:56,931 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:27:56,932 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:27:56,932 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:27:56,948 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:27:56,950 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:27:59,337 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:27:59,353 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:27:59,353 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:27:59,355 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:27:59,355 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:27:59,362 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:27:59,370 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:28:01,213 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:28:01,228 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:28:01,228 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:28:01,229 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:28:01,230 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:28:01,248 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:28:01,249 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:28:01,273 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:28:01,289 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:28:01,290 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:28:01,291 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:28:01,291 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:28:01,305 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:28:01,306 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:28:06,373 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:28:06,388 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:28:06,389 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:28:06,390 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:28:06,390 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:28:06,404 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:28:06,404 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:28:06,430 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:28:06,445 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:28:06,446 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:28:06,447 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:28:06,447 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:28:06,503 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:28:06,505 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:28:06,510 [INFO] PaperMind:117: 开始多篇对比: 2 篇论文
+2026-06-17 22:28:06,510 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_arguments.json
+2026-06-17 22:28:06,511 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_arguments.json
+2026-06-17 22:28:06,557 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=limitation weakness limitation drawback...]
+2026-06-17 22:28:06,567 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=future work future direction...]
+2026-06-17 22:28:06,593 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=assumption constraint...]
+2026-06-17 22:28:06,607 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=limitation weakness limitation drawback...]
+2026-06-17 22:28:06,619 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=future work future direction...]
+2026-06-17 22:28:06,628 [DEBUG] PaperMind:244: 检索返回 2 个结果 [query=assumption constraint...]
+2026-06-17 22:28:43,215 [INFO] PaperMind:149: 对比报告已保存: D:\SystemPath\Documents\Project\papermind\data\reports\compare_20260617_222843.md
+2026-06-17 22:30:49,699 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:30:49,717 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:30:49,718 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:30:49,719 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:30:49,719 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:30:49,734 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:30:49,735 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:30:49,760 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:30:49,777 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:30:49,778 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:30:49,779 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:30:49,780 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:30:49,796 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:30:49,798 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:34:30,543 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:34:30,559 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:34:30,559 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:34:30,559 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:34:30,559 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:34:30,579 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:34:30,581 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:34:41,425 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:34:41,444 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:34:41,446 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:34:41,454 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:34:41,455 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:34:41,472 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:34:41,474 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:34:44,218 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:34:44,234 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:34:44,235 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:34:44,236 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:34:44,236 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:34:44,253 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:34:44,255 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:34:47,065 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:34:47,086 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:34:47,087 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:34:47,089 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:34:47,089 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:34:47,112 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:34:47,114 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:35:46,670 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-06-17 22:35:50,068 [INFO] PaperMind:76: Chroma 向量存储已初始化: ./chroma_db
+2026-06-17 22:35:51,377 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:35:51,390 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:35:51,390 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:35:51,392 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:35:51,393 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:35:51,406 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:35:51,406 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:35:57,620 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_07e085ad32e3_metadata.json
+2026-06-17 22:35:57,637 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:35:57,638 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:35:57,639 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:35:57,639 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:35:57,655 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:35:57,655 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:35:57,662 [INFO] PaperMind:134: 从向量库删除论文: paper_07e085ad32e3
+2026-06-17 22:35:57,841 [INFO] PaperMind:142: 已从向量库删除 99 个块: paper_07e085ad32e3
+2026-06-17 22:35:57,844 [INFO] PaperMind:198: 论文数据已清理: paper_07e085ad32e3
+2026-06-17 22:35:58,664 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:35:58,665 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:35:58,667 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:35:58,668 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:35:58,686 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:35:58,687 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:36:00,010 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:00,011 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:36:00,014 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:36:00,014 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:36:00,038 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:00,039 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_fe0cccc7737f_metadata.json
+2026-06-17 22:36:00,046 [INFO] PaperMind:134: 从向量库删除论文: paper_fe0cccc7737f
+2026-06-17 22:36:00,169 [INFO] PaperMind:142: 已从向量库删除 203 个块: paper_fe0cccc7737f
+2026-06-17 22:36:00,169 [INFO] PaperMind:198: 论文数据已清理: paper_fe0cccc7737f
+2026-06-17 22:36:00,986 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:00,986 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:36:00,994 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:36:00,995 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:36:01,014 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:01,932 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:01,933 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:36:01,934 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:36:01,934 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_89837954117d_metadata.json
+2026-06-17 22:36:01,953 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:01,962 [INFO] PaperMind:134: 从向量库删除论文: paper_89837954117d
+2026-06-17 22:36:02,072 [INFO] PaperMind:142: 已从向量库删除 150 个块: paper_89837954117d
+2026-06-17 22:36:02,075 [INFO] PaperMind:198: 论文数据已清理: paper_89837954117d
+2026-06-17 22:36:02,890 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:02,891 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:36:02,893 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:36:02,910 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:03,701 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:03,702 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_506f0461babe_metadata.json
+2026-06-17 22:36:03,703 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:36:03,717 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:03,722 [INFO] PaperMind:134: 从向量库删除论文: paper_506f0461babe
+2026-06-17 22:36:03,758 [INFO] PaperMind:142: 已从向量库删除 47 个块: paper_506f0461babe
+2026-06-17 22:36:03,762 [INFO] PaperMind:198: 论文数据已清理: paper_506f0461babe
+2026-06-17 22:36:04,581 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:04,582 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:36:04,598 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:05,387 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:05,387 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_606b1dd0e58f_metadata.json
+2026-06-17 22:36:05,403 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:05,403 [INFO] PaperMind:134: 从向量库删除论文: paper_606b1dd0e58f
+2026-06-17 22:36:05,470 [INFO] PaperMind:142: 已从向量库删除 121 个块: paper_606b1dd0e58f
+2026-06-17 22:36:05,473 [INFO] PaperMind:198: 论文数据已清理: paper_606b1dd0e58f
+2026-06-17 22:36:06,299 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:06,316 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:28,716 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:28,732 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:32,251 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:32,271 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:32,292 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:36:32,309 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:36:32,312 [INFO] PaperMind:41: 开始解析 PDF: tmpucc1h2_u.pdf
+2026-06-17 22:36:35,801 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:36:35,802 [INFO] PaperMind:74: PDF 解析完成: 2014 IEEE Symposium on Security and Privacy (pages=16)
+2026-06-17 22:36:35,810 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:36:39,655 [INFO] PaperMind:89: 开始为论文构建索引: paper_2b56127b8129
+2026-06-17 22:36:39,656 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:36:39,658 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:36:39,662 [INFO] PaperMind:218: 文本已切分为 150 个块 (size=800, overlap=150)
+2026-06-17 22:36:44,753 [INFO] PaperMind:106: 成功索引 150 个文本块: paper_2b56127b8129
+2026-06-17 22:36:44,755 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:36:44,756 [INFO] PaperMind:87: 开始论点抽取: 2014 IEEE Symposium on Security and Privacy
+2026-06-17 22:36:44,810 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-06-17 22:36:44,840 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-06-17 22:36:44,871 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-06-17 22:36:44,909 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-06-17 22:36:44,909 [INFO] PaperMind:117: 检索到 9 个相关块 (~1475 tokens)
+2026-06-17 22:36:56,702 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_arguments.json
+2026-06-17 22:36:56,702 [INFO] PaperMind:126: 论点抽取完成: 5 个论点
+2026-06-17 22:36:56,707 [INFO] PaperMind:85: 开始关系识别: 2014 IEEE Symposium on Security and Privacy (arguments=5)
+2026-06-17 22:37:07,597 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_arguments.json
+2026-06-17 22:37:07,602 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_arguments.json
+2026-06-17 22:37:07,602 [INFO] PaperMind:109: 关系识别完成: 5 个关系
+2026-06-17 22:37:08,554 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:37:08,567 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:37:08,587 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:37:14,163 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:37:14,163 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:37:14,180 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:37:16,592 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:37:16,593 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:37:16,608 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:37:17,484 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:37:17,484 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:37:17,502 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:37:17,526 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:37:17,526 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:37:17,543 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:37:17,547 [INFO] PaperMind:41: 开始解析 PDF: tmphbws1c9_.pdf
+2026-06-17 22:37:22,285 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:37:22,286 [INFO] PaperMind:74: PDF 解析完成: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and (pages=34)
+2026-06-17 22:37:22,302 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:37:27,009 [INFO] PaperMind:89: 开始为论文构建索引: paper_0c151362292b
+2026-06-17 22:37:27,011 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:37:27,014 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:37:27,022 [INFO] PaperMind:218: 文本已切分为 203 个块 (size=800, overlap=150)
+2026-06-17 22:37:32,584 [INFO] PaperMind:106: 成功索引 203 个文本块: paper_0c151362292b
+2026-06-17 22:37:32,587 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:37:32,589 [INFO] PaperMind:87: 开始论点抽取: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and
+2026-06-17 22:37:32,611 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-06-17 22:37:32,626 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-06-17 22:37:32,640 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-06-17 22:37:32,654 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-06-17 22:37:32,654 [INFO] PaperMind:117: 检索到 9 个相关块 (~1473 tokens)
+2026-06-17 22:37:39,455 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_arguments.json
+2026-06-17 22:37:39,456 [INFO] PaperMind:126: 论点抽取完成: 5 个论点
+2026-06-17 22:37:39,457 [INFO] PaperMind:85: 开始关系识别: Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and (arguments=5)
+2026-06-17 22:37:55,681 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_arguments.json
+2026-06-17 22:37:55,683 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_arguments.json
+2026-06-17 22:37:55,683 [INFO] PaperMind:109: 关系识别完成: 1 个关系
+2026-06-17 22:37:56,735 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:37:56,753 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:37:56,753 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:37:56,772 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:38:03,334 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:38:03,354 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:38:03,355 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:38:03,371 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:38:08,560 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:38:08,577 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:38:08,578 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:38:08,598 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:38:09,253 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:38:09,266 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:38:09,266 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:38:09,287 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:38:09,299 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:38:09,315 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:38:09,315 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:38:09,330 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:38:11,396 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:38:11,413 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:38:11,413 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:38:11,428 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:38:11,438 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:38:11,458 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:38:11,458 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:38:11,481 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:38:11,485 [INFO] PaperMind:276: 生成研究方向建议: 2 篇论文
+2026-06-17 22:38:11,545 [DEBUG] PaperMind:268: 检索返回 2 个结果 [query=limitation weakness limitation drawback...]
+2026-06-17 22:38:11,571 [DEBUG] PaperMind:268: 检索返回 2 个结果 [query=future work future direction...]
+2026-06-17 22:38:11,598 [DEBUG] PaperMind:268: 检索返回 2 个结果 [query=assumption constraint...]
+2026-06-17 22:38:11,631 [DEBUG] PaperMind:268: 检索返回 2 个结果 [query=limitation weakness limitation drawback...]
+2026-06-17 22:38:11,658 [DEBUG] PaperMind:268: 检索返回 2 个结果 [query=future work future direction...]
+2026-06-17 22:38:11,685 [DEBUG] PaperMind:268: 检索返回 2 个结果 [query=assumption constraint...]
+2026-06-17 22:39:04,682 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:39:04,698 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:39:04,698 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:39:04,720 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:39:04,753 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:39:04,794 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:39:04,794 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:39:04,815 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:39:10,642 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0c151362292b_metadata.json
+2026-06-17 22:39:10,657 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:39:10,658 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:39:10,679 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:39:10,686 [INFO] PaperMind:134: 从向量库删除论文: paper_0c151362292b
+2026-06-17 22:39:10,803 [INFO] PaperMind:142: 已从向量库删除 203 个块: paper_0c151362292b
+2026-06-17 22:39:10,807 [INFO] PaperMind:198: 论文数据已清理: paper_0c151362292b
+2026-06-17 22:39:11,634 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:39:11,635 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:39:11,652 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:39:12,603 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:39:12,604 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_2b56127b8129_metadata.json
+2026-06-17 22:39:12,621 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
+2026-06-17 22:39:12,628 [INFO] PaperMind:134: 从向量库删除论文: paper_2b56127b8129
+2026-06-17 22:39:12,703 [INFO] PaperMind:142: 已从向量库删除 150 个块: paper_2b56127b8129
+2026-06-17 22:39:12,705 [INFO] PaperMind:198: 论文数据已清理: paper_2b56127b8129
+2026-06-17 22:39:13,534 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_20a3cce4e513_metadata.json
+2026-06-17 22:39:13,555 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_dd55d1a66481_metadata.json
