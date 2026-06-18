@@ -47,9 +47,11 @@ cp .env.example .env
 
 ```env
 OPENAI_API_KEY=sk-your-api-key-here
-LLM_MODEL=gpt-4o-mini
+OPENAI_API_BASE=OpenAI_format_BASE_URL
+LLM_MODEL=Model_ID(e.g. gpt-4o, deepseek-v4-pro)
 EMBEDDING_MODEL=text-embedding-3-small
 ```
+(请查阅各大AI厂商接口文档，`EMBEDDING_MODEL`可以不填写，程序检测到非OpenAI模型时会使用本地Embedding模型)
 
 ### 4. 启动应用
 
