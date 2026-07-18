@@ -22,3 +22,66 @@
 2026-07-19 00:54:16,496 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
 2026-07-19 00:54:16,504 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
 2026-07-19 00:54:16,512 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 00:57:50,836 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-07-19 00:58:02,955 [INFO] PaperMind:76: Chroma 向量存储已初始化: ./chroma_db
+2026-07-19 00:58:10,554 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:58:21,414 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:58:22,038 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:58:22,047 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 00:58:22,056 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 01:02:34,811 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-07-19 01:02:47,427 [INFO] PaperMind:76: Chroma 向量存储已初始化: ./chroma_db
+2026-07-19 01:02:55,145 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:03:05,075 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:03:05,752 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:03:05,763 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 01:03:05,763 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 01:05:46,065 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:05:46,077 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 01:05:46,077 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 01:05:47,509 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:05:47,521 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:05:47,526 [INFO] PaperMind:41: 开始解析 PDF: tmpsj826fd0.pdf
+2026-07-19 01:05:58,629 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:05:58,631 [INFO] PaperMind:74: PDF 解析完成: Decentralised Finance (DeFi): a critical review of related risks and regulation (pages=31)
+2026-07-19 01:05:58,665 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:06:10,696 [INFO] PaperMind:89: 开始为论文构建索引: paper_0ccd27dd92be
+2026-07-19 01:06:10,705 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:06:10,705 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:06:10,728 [INFO] PaperMind:218: 文本已切分为 151 个块 (size=800, overlap=150)
+2026-07-19 01:06:21,419 [INFO] PaperMind:106: 成功索引 151 个文本块: paper_0ccd27dd92be
+2026-07-19 01:06:21,419 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:06:21,434 [INFO] PaperMind:87: 开始论点抽取: Decentralised Finance (DeFi): a critical review of related risks and regulation
+2026-07-19 01:06:21,681 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-07-19 01:06:21,717 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-07-19 01:06:21,757 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-07-19 01:06:21,793 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-07-19 01:06:21,795 [INFO] PaperMind:117: 检索到 10 个相关块 (~1631 tokens)
+2026-07-19 01:06:30,192 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_arguments.json
+2026-07-19 01:06:30,192 [INFO] PaperMind:126: 论点抽取完成: 7 个论点
+2026-07-19 01:06:30,194 [INFO] PaperMind:85: 开始关系识别: Decentralised Finance (DeFi): a critical review of related risks and regulation (arguments=7)
+2026-07-19 01:06:50,121 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_arguments.json
+2026-07-19 01:06:50,121 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_arguments.json
+2026-07-19 01:06:50,129 [INFO] PaperMind:109: 关系识别完成: 5 个关系
+2026-07-19 01:06:51,877 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:06:51,880 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:06:51,896 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 01:06:51,900 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 01:08:36,480 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:08:36,480 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:08:37,136 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:08:37,138 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:08:37,177 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_arguments.json
+2026-07-19 01:08:37,181 [INFO] PaperMind:104: 图谱构建完成: nodes=7, edges=5
+2026-07-19 01:09:18,649 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_0ccd27dd92be_metadata.json
+2026-07-19 01:09:18,649 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:09:18,663 [INFO] PaperMind:134: 从向量库删除论文: paper_0ccd27dd92be
+2026-07-19 01:09:18,975 [INFO] PaperMind:142: 已从向量库删除 151 个块: paper_0ccd27dd92be
+2026-07-19 01:09:18,987 [INFO] PaperMind:198: 论文数据已清理: paper_0ccd27dd92be
+2026-07-19 01:09:20,751 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:09:27,285 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:09:34,074 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:09:34,672 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 01:09:34,687 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 01:09:34,689 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 01:09:35,651 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json

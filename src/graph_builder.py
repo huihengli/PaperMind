@@ -358,13 +358,48 @@ class GraphBuilder:
             font-size: 14px;
             margin-top: 40px;
         }
+        #node-detail-panel .panel-relation {
+            font-size: 14px;
+            line-height: 1.7;
+            color: #333;
+            margin: 10px 0;
+            padding: 12px;
+            background: #FFF8E1;
+            border-radius: 8px;
+            border-left: 4px solid #FF9800;
+        }
+        #node-detail-panel .panel-arrow {
+            text-align: center;
+            font-size: 20px;
+            color: #888;
+            margin: 6px 0;
+        }
+        #node-detail-panel .panel-from-to {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            font-size: 13px;
+            color: #666;
+            margin: 8px 0;
+            text-align: center;
+        }
+        #node-detail-panel .panel-from-to span {
+            background: #f0f0f0;
+            padding: 3px 10px;
+            border-radius: 10px;
+            max-width: 140px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
         </style>
         """
 
         panel_html = """
         <div id="node-detail-panel">
             <button class="close-btn" onclick="document.getElementById('node-detail-panel').classList.remove('open')">&times;</button>
-            <div id="panel-content" class="panel-placeholder">👆 点击图中节点查看详情</div>
+            <div id="panel-content" class="panel-placeholder">👆 点击图中节点或连线查看详情</div>
         </div>
         """
 
@@ -379,10 +414,42 @@ class GraphBuilder:
                 hypothesis: {bg: "#F3E5F5", text: "#7B1FA2"},
                 conclusion: {bg: "#E8F5E9", text: "#2E7D32"}
             };
+            var relLabels = {
+                supports: "✅ 支持", contradicts: "❌ 矛盾", refines: "🔍 细化",
+                causes: "🔗 因果", extends: "📌 扩展", based_on: "🏗️ 基于"
+            };
 
-            // vis.js 在 pyvis 中用变量 network 存储
+            function getNodeLabel(nodeId) {
+                var nd = network.body.data.nodes.get(nodeId);
+                if (!nd) return nodeId;
+                return nd.label || nd.full_statement || nodeId;
+            }
+
             if (typeof network !== 'undefined') {
                 network.on('click', function(params) {
+                    // --- 点击边（关系） ---
+                    if (params.edges.length > 0) {
+                        var edgeId = params.edges[0];
+                        var edgeData = network.body.data.edges.get(edgeId);
+                        if (!edgeData) return;
+
+                        var relType = edgeData.rel_type || '';
+                        var relLabel = relLabels[relType] || edgeData.label || relType;
+                        var explanation = (edgeData.title || '').replace(/<[^>]*>/g, '');
+                        var fromLabel = getNodeLabel(edgeData.from);
+                        var toLabel = getNodeLabel(edgeData.to);
+
+                        content.innerHTML =
+                            '<span class="panel-type" style="background:#FFF3E0;color:#E65100">🔗 关系: ' + relLabel + '</span>' +
+                            '<div class="panel-from-to"><span>' + fromLabel + '</span> → <span>' + toLabel + '</span></div>' +
+                            (explanation ? '<div class="panel-relation">' + explanation + '</div>' : '') +
+                            '<div class="panel-meta">🆔 ' + edgeId + '</div>';
+
+                        panel.classList.add('open');
+                        return;
+                    }
+
+                    // --- 点击节点 ---
                     if (params.nodes.length > 0) {
                         var nodeId = params.nodes[0];
                         var nodeData = network.body.data.nodes.get(nodeId);
@@ -394,20 +461,14 @@ class GraphBuilder:
                         var typeLabel = typeLabels[argType] || '📌 ' + argType;
                         var colors = typeColors[argType] || {bg: "#F5F5F5", text: "#666"};
 
-                        // 清理 title 中的 HTML 标签获取纯文本
-                        var plainTitle = fullText.replace(/<[^>]*>/g, '');
-                        var cleanStatement = plainTitle
-                            .replace(/^.*?论点:<\/b>\\s*/i, '')
-                            .replace(/<b>.*?:<\\/b>/g, '')
-                            .trim();
-
-                        // 如果 full_statement 存在就用它
+                        var cleanStatement = '';
                         if (nodeData.full_statement) {
                             cleanStatement = nodeData.full_statement;
                         } else {
-                            // 尝试从 title 中提取 (fallback)
-                            var m = plainTitle.match(/论点:<\/b>\\s*(.+?)(?:<br>|$)/);
+                            var plainTitle = fullText.replace(/<[^>]*>/g, '');
+                            var m = plainTitle.match(/论点:\\s*(.+?)(?:\\n|ID:|类型:|位置:|$)/);
                             if (m) cleanStatement = m[1].trim();
+                            if (!cleanStatement) cleanStatement = plainTitle;
                         }
 
                         content.innerHTML =
