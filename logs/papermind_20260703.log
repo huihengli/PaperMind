@@ -1,0 +1,44 @@
+2026-07-03 10:06:08,648 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-07-03 10:06:18,334 [INFO] PaperMind:76: Chroma 向量存储已初始化: ./chroma_db
+2026-07-03 10:06:42,252 [INFO] PaperMind:41: 开始解析 PDF: tmpt1xj84gz.pdf
+2026-07-03 10:06:48,075 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:06:48,078 [INFO] PaperMind:74: PDF 解析完成: Internal Vulnerabilities, External Threats: A Grounded (pages=28)
+2026-07-03 10:06:48,104 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:06:54,966 [INFO] PaperMind:89: 开始为论文构建索引: paper_6d23cc0a685c
+2026-07-03 10:06:54,969 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:06:54,974 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:06:54,985 [INFO] PaperMind:218: 文本已切分为 154 个块 (size=800, overlap=150)
+2026-07-03 10:07:02,317 [INFO] PaperMind:106: 成功索引 154 个文本块: paper_6d23cc0a685c
+2026-07-03 10:07:02,320 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:07:02,323 [INFO] PaperMind:87: 开始论点抽取: Internal Vulnerabilities, External Threats: A Grounded
+2026-07-03 10:07:02,398 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=核心创新点 主要贡献 方法...]
+2026-07-03 10:07:02,438 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=实验设计 评估方法 结果分析...]
+2026-07-03 10:07:02,469 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=结论 发现 局限性 未来工作...]
+2026-07-03 10:07:02,501 [DEBUG] PaperMind:268: 检索返回 3 个结果 [query=假设 前提 理论依据...]
+2026-07-03 10:07:02,502 [INFO] PaperMind:117: 检索到 7 个相关块 (~1345 tokens)
+2026-07-03 10:07:12,744 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-03 10:07:12,746 [INFO] PaperMind:126: 论点抽取完成: 5 个论点
+2026-07-03 10:07:12,747 [INFO] PaperMind:85: 开始关系识别: Internal Vulnerabilities, External Threats: A Grounded (arguments=5)
+2026-07-03 10:07:33,760 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-03 10:07:33,762 [INFO] PaperMind:96: JSON 已保存: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-03 10:07:33,762 [INFO] PaperMind:109: 关系识别完成: 6 个关系
+2026-07-03 10:07:35,130 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:07:42,657 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:07:43,140 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:07:43,168 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-03 10:07:43,171 [INFO] PaperMind:93: 图谱构建完成: nodes=5, edges=6
+2026-07-03 10:07:43,330 [INFO] PaperMind:251: 图谱已保存: C:\Users\a\AppData\Local\Temp\papermind_graph_paper_6d23cc0a685c.html
+2026-07-03 10:09:35,789 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:09:35,805 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:09:40,439 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:09:40,454 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:10:02,386 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:10:02,398 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:10:03,725 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:10:03,733 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:10:03,745 [INFO] PaperMind:86: RAG 问答: [default] 这篇论文的主要调研对象是谁...
+2026-07-03 10:10:03,813 [DEBUG] PaperMind:268: 检索返回 8 个结果 [query=这篇论文的主要调研对象是谁...]
+2026-07-03 10:10:41,431 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:10:41,444 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-03 10:10:41,468 [INFO] PaperMind:86: RAG 问答: [default] 这篇论文的核心创新是什么？...
+2026-07-03 10:10:41,544 [DEBUG] PaperMind:268: 检索返回 8 个结果 [query=这篇论文的核心创新是什么？...]

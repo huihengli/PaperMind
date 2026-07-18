@@ -1,0 +1,81 @@
+{
+  "paper_id": "paper_6d23cc0a685c",
+  "paper_title": "Internal Vulnerabilities, External Threats: A Grounded",
+  "argument_count": 5,
+  "arguments": [
+    {
+      "id": "arg1",
+      "paper_id": "paper_6d23cc0a685c",
+      "statement": "传统专注于技术工具的风险管理无法应对企业开源面临的结构性系统性威胁（如上游“silent fixes”、社区冲突、许可证突然变更），存在治理盲点。",
+      "type": "claim",
+      "location": "摘要、引言"
+    },
+    {
+      "id": "arg2",
+      "paper_id": "paper_6d23cc0a685c",
+      "statement": "论文明确区分风险管理和风险治理，认为企业开源痛点的根源是治理真空而非管理失败，治理是领导层制定的战略框架（政策、风险偏好、问责制），确保组织“做正确的事”。",
+      "type": "claim",
+      "location": "Section 3（方法部分之前的论述）"
+    },
+    {
+      "id": "arg3",
+      "paper_id": "paper_6d23cc0a685c",
+      "statement": "采用扎根理论方法，基于15名从业者访谈构建了企业开源风险治理框架，经3名专家通过回顾性案例研究验证。",
+      "type": "conclusion",
+      "location": "Section 3: Methodology"
+    },
+    {
+      "id": "arg4",
+      "paper_id": "paper_6d23cc0a685c",
+      "statement": "内部脆弱性被分类为战略文化（如模糊的战略授权、碎片化治理）、运营（如资源不足、无反馈循环）和技术等维度，这些脆弱性会放大外部威胁的影响。",
+      "type": "conclusion",
+      "location": "Table 5: Taxonomy of Internal Vulnerabilities"
+    },
+    {
+      "id": "arg5",
+      "paper_id": "paper_6d23cc0a685c",
+      "statement": "论文针对每种内部脆弱性提出了核心缓解策略（如设立OSPO、正式事后复盘机制），以增强组织对外部威胁的韧性。",
+      "type": "conclusion",
+      "location": "Table 6: Overview of Risk Mitigation Strategies"
+    }
+  ],
+  "relations": [
+    {
+      "from": "arg1",
+      "to": "arg2",
+      "type": "elaborates",
+      "explanation": "arg1指出传统风险管理存在治理盲点，arg2具体展开治理盲点的本质是治理真空，并明确区分风险治理与管理"
+    },
+    {
+      "from": "arg1",
+      "to": "arg4",
+      "type": "elaborates",
+      "explanation": "arg1提及结构性系统性威胁（如上游silent fixes），arg4将这些威胁细化为内部脆弱性的具体分类（战略文化、运营、技术等）"
+    },
+    {
+      "from": "arg2",
+      "to": "arg4",
+      "type": "leads_to",
+      "explanation": "arg2确立治理框架后，自然引出对脆弱性维度的系统分类（arg4），作为治理框架的核心组成部分"
+    },
+    {
+      "from": "arg4",
+      "to": "arg5",
+      "type": "leads_to",
+      "explanation": "arg4识别出内部脆弱性会放大外部威胁，arg5针对每种脆弱性提出缓解策略，因果关系明确"
+    },
+    {
+      "from": "arg3",
+      "to": "arg4",
+      "type": "supports",
+      "explanation": "arg3描述扎根理论方法和访谈验证，为arg4中的脆弱性分类提供了经验证据和科学基础"
+    },
+    {
+      "from": "arg3",
+      "to": "arg5",
+      "type": "supports",
+      "explanation": "arg3的方法论验证了整体框架的可靠性，arg5中的缓解策略作为框架输出得到方法支持"
+    }
+  ],
+  "relation_count": 6
+}
