@@ -5,3 +5,20 @@
 2026-07-19 00:34:09,415 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
 2026-07-19 00:34:09,435 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
 2026-07-19 00:34:09,444 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 00:50:58,535 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-07-19 00:51:15,438 [INFO] PaperMind:76: Chroma 向量存储已初始化: ./chroma_db
+2026-07-19 00:51:23,496 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:51:36,317 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:51:36,982 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:51:37,004 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 00:51:37,004 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
+2026-07-19 00:52:20,327 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:06,621 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:07,362 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:09,025 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:09,037 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:12,200 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:12,213 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:16,496 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:54:16,504 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 00:54:16,512 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
