@@ -252,9 +252,8 @@ class GraphBuilder:
         # 从 NetworkX 图添加节点和边
         net.from_nx(G)
 
-        # 添加图例
-        graph_title = G.graph.get("title", "论文论点关系图")
-        net.heading = graph_title
+        # add empty heading (避免 pyvis 默认标题，标题由 Streamlit 外部显示)
+        net.heading = ""
 
         # 生成 HTML
         try:

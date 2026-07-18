@@ -329,7 +329,7 @@ def render_single_analysis(paper_id, services):
     arguments = data.get("arguments", [])
     relations = data.get("relations", [])
 
-    st.markdown(f"### 📖 {paper_title}")
+    st.markdown(f"<span style='font-size:1.15rem;font-weight:600;'>{paper_title}</span>", unsafe_allow_html=True)
 
     # 标签页
     tab1, tab2, tab3 = st.tabs(["🔗 论点网络图", "📋 论点详情", "📊 统计信息"])
