@@ -35,6 +35,13 @@ class GraphBuilder:
         "conclusion": "star",
     }
 
+    # 论点类型 → 精简标签（显示在节点上）
+    ARGUMENT_TYPE_LABELS = {
+        "claim": "💡 主张",
+        "hypothesis": "🔮 假设",
+        "conclusion": "✅ 结论",
+    }
+
     def build_graph(
         self,
         arguments: List[Dict[str, Any]],
@@ -58,16 +65,20 @@ class GraphBuilder:
         for arg in arguments:
             arg_id = arg.get("id", "unknown")
             arg_type = arg.get("type", "claim")
+            statement = arg.get("statement", "")
+            location = arg.get("location", "Unknown")
+            short_label = self.ARGUMENT_TYPE_LABELS.get(arg_type, "📌 论点")
+
             G.add_node(
                 arg_id,
-                label=self._truncate_label(arg.get("statement", ""), 40),
+                label=short_label,
                 title=self._build_node_title(arg),
                 group=arg_type,
                 color=self.ARGUMENT_COLORS.get(arg_type, "#78909C"),
                 shape=self.ARGUMENT_SHAPES.get(arg_type, "dot"),
                 arg_type=arg_type,
-                full_statement=arg.get("statement", ""),
-                location=arg.get("location", "Unknown"),
+                full_statement=statement,
+                location=location,
             )
 
         # 添加边
@@ -135,10 +146,11 @@ class GraphBuilder:
             for arg in paper.get("arguments", []):
                 arg_id = f"{prefix}{arg.get('id', 'unknown')}"
                 arg_type = arg.get("type", "claim")
+                short_label = self.ARGUMENT_TYPE_LABELS.get(arg_type, "📌 论点")
                 G.add_node(
                     arg_id,
-                    label=self._truncate_label(arg.get("statement", ""), 35),
-                    title=f"[{title}] {arg.get('statement', '')}",
+                    label=f"[P{pi+1}] {short_label}",
+                    title=f"[{title}]<br>{arg.get('statement', '')}",
                     group=arg_type,
                     color=self.ARGUMENT_COLORS.get(arg_type, "#78909C"),
                     shape=self.ARGUMENT_SHAPES.get(arg_type, "dot"),
@@ -246,11 +258,16 @@ class GraphBuilder:
 
         # 生成 HTML
         try:
+            html = net.generate_html()
+
+            # 注入自定义 JS：点击节点显示详情面板
+            html = self._inject_click_panel(html)
+
             if output_path:
-                net.save_graph(str(output_path))
+                with open(output_path, "w", encoding="utf-8") as f:
+                    f.write(html)
                 logger.info(f"图谱已保存: {output_path}")
 
-            html = net.generate_html()
             return html
         except Exception as e:
             logger.error(f"图谱生成失败: {e}")
@@ -273,14 +290,152 @@ class GraphBuilder:
         return text[:max_len - 3] + "..."
 
     def _build_node_title(self, arg: Dict[str, Any]) -> str:
-        """构建节点悬浮提示文本"""
-        parts = [
-            f"<b>ID:</b> {arg.get('id', 'Unknown')}",
-            f"<b>类型:</b> {arg.get('type', 'Unknown')}",
-            f"<b>论点:</b> {arg.get('statement', '')}",
-            f"<b>位置:</b> {arg.get('location', 'Unknown')}",
+        """构建节点悬浮提示文本（纯文本，vis.js 默认不渲染 HTML）"""
+        lines = [
+            f"ID: {arg.get('id', 'Unknown')}",
+            f"类型: {arg.get('type', 'Unknown')}",
+            f"论点: {arg.get('statement', '')}",
+            f"位置: {arg.get('location', 'Unknown')}",
         ]
-        return "<br>".join(parts)
+        return "\n".join(lines)
+
+    def _inject_click_panel(self, html: str) -> str:
+        """在 pyvis 生成的 HTML 中注入节点点击详情面板"""
+        panel_css = """
+        <style>
+        #node-detail-panel {
+            position: fixed;
+            top: 20px;
+            right: -420px;
+            width: 380px;
+            max-height: 70vh;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+            z-index: 9999;
+            padding: 20px;
+            transition: right 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow-y: auto;
+            font-family: "Microsoft YaHei", "Segoe UI", Arial, sans-serif;
+        }
+        #node-detail-panel.open { right: 20px; }
+        #node-detail-panel .close-btn {
+            position: absolute;
+            top: 8px;
+            right: 12px;
+            font-size: 20px;
+            cursor: pointer;
+            color: #999;
+            border: none;
+            background: none;
+        }
+        #node-detail-panel .close-btn:hover { color: #333; }
+        #node-detail-panel .panel-type {
+            display: inline-block;
+            padding: 3px 12px;
+            border-radius: 12px;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        #node-detail-panel .panel-statement {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #333;
+            margin: 10px 0;
+            padding: 12px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        #node-detail-panel .panel-meta {
+            font-size: 13px;
+            color: #888;
+            margin-top: 12px;
+        }
+        #node-detail-panel .panel-placeholder {
+            text-align: center;
+            color: #bbb;
+            font-size: 14px;
+            margin-top: 40px;
+        }
+        </style>
+        """
+
+        panel_html = """
+        <div id="node-detail-panel">
+            <button class="close-btn" onclick="document.getElementById('node-detail-panel').classList.remove('open')">&times;</button>
+            <div id="panel-content" class="panel-placeholder">👆 点击图中节点查看详情</div>
+        </div>
+        """
+
+        click_js = """
+        <script>
+        (function() {
+            var panel = document.getElementById('node-detail-panel');
+            var content = document.getElementById('panel-content');
+            var typeLabels = {claim: "💡 主张", hypothesis: "🔮 假设", conclusion: "✅ 结论"};
+            var typeColors = {
+                claim: {bg: "#E3F2FD", text: "#1565C0"},
+                hypothesis: {bg: "#F3E5F5", text: "#7B1FA2"},
+                conclusion: {bg: "#E8F5E9", text: "#2E7D32"}
+            };
+
+            // vis.js 在 pyvis 中用变量 network 存储
+            if (typeof network !== 'undefined') {
+                network.on('click', function(params) {
+                    if (params.nodes.length > 0) {
+                        var nodeId = params.nodes[0];
+                        var nodeData = network.body.data.nodes.get(nodeId);
+                        if (!nodeData) return;
+
+                        var argType = nodeData.arg_type || nodeData.group || '';
+                        var fullText = nodeData.full_statement || nodeData.title || '';
+                        var location = nodeData.location || '';
+                        var typeLabel = typeLabels[argType] || '📌 ' + argType;
+                        var colors = typeColors[argType] || {bg: "#F5F5F5", text: "#666"};
+
+                        // 清理 title 中的 HTML 标签获取纯文本
+                        var plainTitle = fullText.replace(/<[^>]*>/g, '');
+                        var cleanStatement = plainTitle
+                            .replace(/^.*?论点:<\/b>\\s*/i, '')
+                            .replace(/<b>.*?:<\\/b>/g, '')
+                            .trim();
+
+                        // 如果 full_statement 存在就用它
+                        if (nodeData.full_statement) {
+                            cleanStatement = nodeData.full_statement;
+                        } else {
+                            // 尝试从 title 中提取 (fallback)
+                            var m = plainTitle.match(/论点:<\/b>\\s*(.+?)(?:<br>|$)/);
+                            if (m) cleanStatement = m[1].trim();
+                        }
+
+                        content.innerHTML =
+                            '<span class="panel-type" style="background:' + colors.bg + ';color:' + colors.text + '">' + typeLabel + '</span>' +
+                            '<div class="panel-statement">' + cleanStatement + '</div>' +
+                            (location ? '<div class="panel-meta">📍 位置: ' + location + '</div>' : '') +
+                            '<div class="panel-meta">🆔 ' + nodeId + '</div>';
+
+                        panel.classList.add('open');
+                    }
+                });
+
+                // 点击空白关闭
+                network.on('click', function(params) {
+                    if (params.nodes.length === 0 && params.edges.length === 0) {
+                        panel.classList.remove('open');
+                    }
+                });
+            }
+        })();
+        </script>
+        """
+
+        # 注入到 </body> 之前
+        injection = panel_css + panel_html + click_js
+        html = html.replace("</body>", injection + "\n</body>")
+        return html
 
     def get_graph_stats(self, G: nx.DiGraph) -> Dict[str, Any]:
         """获取图谱统计信息"""

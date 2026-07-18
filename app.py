@@ -338,18 +338,11 @@ def render_single_analysis(paper_id, services):
         if not arguments:
             st.info("未抽取到论点")
         else:
-            # 构建图谱
+            # 构建图谱并直接使用
             G = services["graph_builder"].build_graph(arguments, relations, paper_title)
             graph_html = services["graph_builder"].visualize(
                 G, height="550px", bg_color="#FAFAFA"
             )
-
-            # 保存到临时文件并用 iframe 渲染
-            tmp_path = Path(tempfile.gettempdir()) / f"papermind_graph_{paper_id}.html"
-            services["graph_builder"].visualize_to_file(G, str(tmp_path), height="550px")
-
-            with open(tmp_path, "r", encoding="utf-8") as f:
-                graph_html = f.read()
 
             st_html(graph_html, height=580, scrolling=True)
 

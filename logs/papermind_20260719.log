@@ -1,0 +1,7 @@
+2026-07-19 00:33:32,877 [INFO] PaperMind:61: 检测到非 OpenAI API，使用本地 HuggingFace Embedding (all-MiniLM-L6-v2)
+2026-07-19 00:33:48,202 [INFO] PaperMind:76: Chroma 向量存储已初始化: ./chroma_db
+2026-07-19 00:33:57,375 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:34:08,773 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:34:09,415 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_metadata.json
+2026-07-19 00:34:09,435 [DEBUG] PaperMind:106: JSON 已加载: D:\SystemPath\Documents\Project\papermind\data\parsed_json\paper_6d23cc0a685c_arguments.json
+2026-07-19 00:34:09,444 [INFO] PaperMind:104: 图谱构建完成: nodes=5, edges=6
